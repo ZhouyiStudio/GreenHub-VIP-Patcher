@@ -2,11 +2,17 @@
 
 **GreenHub VIP Patcher** is a lightweight yet powerful patching tool designed to **enhance GreenHub applications by unlocking VIP features**, **removing restrictions**, or **applying custom optimizations**. Whether you're a developer looking to experiment with app modifications or a user seeking extended functionality, this tool provides a flexible and transparent solution.
 
+## README Languages
+Click these links below to change README languages
+- [**Stay in English**](README.md)
+- [Simplified Chinese - 中文-中国](README_zh-CN.md)
+- [Traditional Chinese - 中文-香港特别行政区](README_zh-TW.md)
+
 ## Key Features ✨
 - ✔ **Easy-to-Use Patching** – Apply modifications with simple commands or a user-friendly interface.
 - ✔ **Non-Destructive Changes** – Modifies only necessary components, preserving app stability.
 - ✔ **Open & Transparent** – Full source code available for review and customization.
-
+- ✔ **Custom Scripting Support** – Users can define their own patching names.
 ## Use Cases 🎯
 - **Unlock** VIP/premium features in GreenHub apps.
 - **Bypass** trial limitations or ads (for ethical use cases).
