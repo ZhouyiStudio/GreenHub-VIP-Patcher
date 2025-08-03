@@ -1,4 +1,5 @@
-# GreenHub VIP Patcher 🛠️🔓
+# GreenHub VIP Patcher 🛠️🔓 ![Github stars](https://img.shields.io/github/stars/ZhouyiStudio/GreenHub-VIP-Patcher.svg) ![releases](https://img.shields.io/badge/release-v1.0.0_Alpha-blue) ![builds](https://img.shields.io/badge/build-passing-brightgreen)
+
 **GreenHub VIP Patcher** is a lightweight yet powerful patching tool designed to **enhance GreenHub applications by unlocking VIP features**, **removing restrictions**, or **applying custom optimizations**. Whether you're a developer looking to experiment with app modifications or a user seeking extended functionality, this tool provides a flexible and transparent solution.
 
 ## Key Features ✨
